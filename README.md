@@ -5,7 +5,7 @@
 
 ## 🎮 플레이
 
-👉 **[게임 플레이하기](https://yeeun0560-star.github.io/lotte-escape/)**
+👉 **[게임 플레이하기](https://yeeun0560-star.github.io/LOTTEDPT-escape/)**
 
 ## 📖 게임 소개
 
